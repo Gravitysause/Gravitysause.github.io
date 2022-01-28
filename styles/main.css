@@ -1,0 +1,14 @@
+body {
+    background: cornflowerblue;
+}
+
+h1, h3 {
+    color: black;
+}
+
+li {
+    font-size: large;
+}
+.mainHead {
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: #15141a;
+}
+
+button {
+    width: 5%;
+    height: fit-content;
+
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 15%;
+
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #15141a;
+
+    background-color: #ed3966;
+
+    text-align: center;
+    color: #2b2a33;
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}

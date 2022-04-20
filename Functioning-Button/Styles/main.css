@@ -3,7 +3,7 @@ body {
 }
 
 button {
-    width: 5%;
+    width: fit-content;
     height: fit-content;
 
     position: absolute;
